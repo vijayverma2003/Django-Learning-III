@@ -12,6 +12,7 @@ django-filter = "*"
 djoser = "*"
 djangorestframework-simplejwt = "*"
 mysqlclient = "*"
+pillow = "*"
 
 [dev-packages]
 autopep8 = "*"
