@@ -183,3 +183,7 @@ EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 2525
 DEFAULT_FROM_EMAIL = 'from@vijay.com'
+
+ADMINS = [
+    ('Vijay', 'admin@vijay.com')
+]
