@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c05906b50811eda3058a8be73ed8aca2765456c1fa742ae033cf46dd8b1d06c4"
+            "sha256": "375443c8e0981908cadd93feb681042659e6cf209a99ca15262e4f727a7b8549"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -195,11 +195,28 @@
             "index": "pypi",
             "version": "==22.1"
         },
+        "django-render-block": {
+            "hashes": [
+                "sha256:1768832be78476c36627b3e3a8e7d9eb0e2bc46b84daf2c51958e2f674173c40",
+                "sha256:3dde0d2abde9381685659d2ed0761b8bddf7741c48eaadec9e5b50a6c7850247"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==0.9.2"
+        },
+        "django-templated-email": {
+            "hashes": [
+                "sha256:49d61840ec551e640adaf341146e94d6f9058ae01df964480850bf988046e5eb",
+                "sha256:bf1b68ffe6c8794c0c50e2ce20e3a166c6d511b3879abbd3cf059a3fc2fe2e60"
+            ],
+            "index": "pypi",
+            "version": "==3.0.0"
+        },
         "django-templated-mail": {
             "hashes": [
                 "sha256:8db807effebb42a532622e2d142dfd453dafcd0d7794c4c3332acb90656315f9",
                 "sha256:f7127e1e31d7cad4e6c4b4801d25814d4b8782627ead76f4a75b3b7650687556"
             ],
+            "index": "pypi",
             "version": "==1.1.1"
         },
         "djangorestframework": {
@@ -398,11 +415,11 @@
         },
         "pyjwt": {
             "hashes": [
-                "sha256:8d82e7087868e94dd8d7d418e5088ce64f7daab4b36db654cbaedb46f9d1ca80",
-                "sha256:e77ab89480905d86998442ac5788f35333fa85f65047a534adc38edf3c88fc3b"
+                "sha256:69285c7e31fc44f68a1feb309e948e0df53259d579295e6cfe2b1792329f05fd",
+                "sha256:d83c3d892a77bbb74d3e1a2cfa90afaadb60945205d1095d9221f04466f64c14"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2.5.0"
+            "version": "==2.6.0"
         },
         "python3-openid": {
             "hashes": [
@@ -413,7 +430,8 @@
         },
         "pytz": {
             "hashes": [
-                "sha256:335ab46900b1465e714b4fda4963d87363264eb662aab5e65da039c25f1f5b22"
+                "sha256:335ab46900b1465e714b4fda4963d87363264eb662aab5e65da039c25f1f5b22",
+                "sha256:c4d88f472f54d615e9cd582a5004d1e5f624854a6a27a6211591c251f22a6914"
             ],
             "version": "==2022.5"
         },
