@@ -11,15 +11,17 @@ drf-nested-routers = "*"
 django-filter = "*"
 djoser = "*"
 djangorestframework-simplejwt = "*"
-mysqlclient = "*"
 pillow = "*"
 django-cors-headers = "*"
 django-templated-mail = "*"
 redis = "*"
 celery = "*"
+mysqlclient = "*"
 
 [dev-packages]
 autopep8 = "*"
+pytest = "*"
+pytest-django = "*"
 
 [requires]
 python_version = "3.9"
